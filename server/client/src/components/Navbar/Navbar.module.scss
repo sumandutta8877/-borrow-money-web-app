@@ -1,0 +1,25 @@
+$primary-color: rgb(235, 95, 95);
+
+.navbar{
+    color: $primary-color;
+}
+
+.marg{
+    width:100%;
+    background-color: rgb(209, 203, 166);
+    border: 1px solid rgb(173, 173, 173);
+    height: 35px;
+    table-layout: fixed;
+}
+
+.custom_button{
+    border:solid 1px rgb(0, 0, 0);
+    color:rgb(30, 31, 31);
+    width: 130px;
+    
+    // margin-right: 25px;
+}
+.custom_button:hover{
+    background-color: rgb(53, 40, 14);
+    color:white
+}

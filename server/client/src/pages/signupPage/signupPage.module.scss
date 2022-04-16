@@ -1,0 +1,44 @@
+
+
+.or{
+    // text-align: center;
+    margin-right:30px;
+    margin-top:20px;
+    }
+    
+
+
+
+.forinput{
+    width: 285px;
+    height: 36px;
+    margin-top:7px;
+    // margin-left:100%;
+    // padding-left: 10px; 
+    border-radius: 5px 5px 5px 5px;
+    border: solid 1px #cbc9c9; 
+    box-shadow: 1px 2px 5px rgba(0,0,0,.9); 
+    background: #fff; 
+    }      
+    
+    
+    .popup{
+        display: none;
+    }
+
+    .custom_button{
+        border:solid 1px rgb(0, 0, 0);
+        color:rgb(30, 31, 31);
+        width: 130px;
+        margin-right: 25px;
+        margin-left:1px;
+        margin-top:15px;
+    }
+
+    .marg{
+        width:100%;
+        // background-color: rgb(209, 203, 166);
+        // border: 1px solid rgb(173, 173, 173);
+        height: 35px;
+        table-layout: fixed;
+      }
